@@ -72,7 +72,6 @@ We built an interactive dashboard using **Plotly Dash**, divided into three main
 - **Arduino**
 - **MIOTY Sensor Board**
 - **SD Reader Integration**
-- 
 ---
 
 ##  Repository Contents
