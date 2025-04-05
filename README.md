@@ -2,7 +2,9 @@
 
 This project was developed as part of a university course in collaboration with the [City Science MIT Lab](https://www.media.mit.edu/groups/city-science/overview/). The aim was to explore how technology can contribute to the transformation of **San Sebastian** into a smart city by analyzing environmental conditions and their potential relationship with public safety across different neighborhoods.
 
-## 📌 Objective
+---
+
+##  Objective
 
 The project began with understanding the functionality of the **MIOTY board**, a device equipped with environmental sensors. Our group investigated how these sensors could be used to address the question:
 
@@ -12,7 +14,7 @@ Our final proposal involved collecting nighttime **illumination**, **temperature
 
 ---
 
-## 🛠 Hardware Setup
+##  Hardware Setup
 
 We used the **MIOTY board**, which includes built-in sensors for:
 - Light (illumination)
@@ -26,7 +28,7 @@ To enable efficient data logging, we integrated an **SD card reader** by connect
 
 ---
 
-## 📍 Data Collection
+##  Data Collection
 
 Data was gathered by walking through **49.33 km** of San Sebastian's neighborhoods, primarily between **10 PM and 12 AM**, to ensure consistency in environmental conditions.
 
@@ -39,7 +41,7 @@ After each session, we transferred the sensor data from the SD card to a compute
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 We built an interactive dashboard using **Plotly Dash**, divided into three main tabs:
 
@@ -63,7 +65,7 @@ We built an interactive dashboard using **Plotly Dash**, divided into three main
 
 ---
 
-## 📦 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Plotly Dash**
@@ -73,7 +75,7 @@ We built an interactive dashboard using **Plotly Dash**, divided into three main
 - 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `/arduino`: Arduino scripts for MIOTY board configuration.
 - `/data`: Sample datasets and cleaned CSVs.
